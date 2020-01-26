@@ -4,6 +4,6 @@ import "testing"
 
 func TestFizzBuzz(t *testing.T) {
 
-	FizzBuzz(4)
+	FizzBuzz(20)
 
 }
